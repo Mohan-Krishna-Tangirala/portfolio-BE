@@ -7,6 +7,7 @@ from email.mime.multipart import MIMEMultipart
 import os
 
 
+
 SMTP_SERVER = 'smtp.gmail.com'  # Use your SMTP server
 SMTP_PORT = 587                 # Typically 587 for TLS
 SMTP_USERNAME = 'mohank.tangirala@gmail.com'
