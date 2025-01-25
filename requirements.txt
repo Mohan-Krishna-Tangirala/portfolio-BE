@@ -1,3 +1,5 @@
 flask
 secure-smtplib
 sqlalchemy
+flask_sqlalchemy
+flask_cors
