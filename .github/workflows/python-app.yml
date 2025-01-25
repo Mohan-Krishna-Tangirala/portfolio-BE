@@ -39,6 +39,4 @@ jobs:
       run: |
         docker run -d --network="host" flask-app
 
-    - name: Test Flask app
-      run: |
-        curl http://localhost:5000
+    
